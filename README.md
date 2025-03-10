@@ -12,7 +12,7 @@
 
 <details>
 
-<summary>More helpful links including 📽️, cheat sheets, and visualization tools</summary>
+<summary>More helpful links including pomme, cheat sheets, and visualization tools</summary>
 
 #### Git
 
